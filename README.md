@@ -9,3 +9,5 @@ Business Intelligence Season 5 attracted more than 1000 participants from all re
 Over 3 rounds: Identifying - Challenging - Proofing, participants had chances to test their own knowledge of business and technology, got familiar with BI case studies, practiced BI tools such as Power BI, SSAS, SQL Server, SSIS, etc.
 
 **After many blowing battles of mind, my team - T2L - has become the CHAMPION in the Business Intelligence competition - season 5 - 2021.**
+
+![This is an image](https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/186511936_2938445789759167_7845417084266941385_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=7fWYno5_7rQAX9zoTIc&_nc_ht=scontent-hkg4-1.xx&oh=8a18a04b8fff261afc8cd480ec0db68b&oe=615B53C8)
